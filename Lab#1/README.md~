@@ -191,7 +191,3 @@ The result is this:
 ```
     Hi PlugaruT! You have successfully authenticated, but GitHub does not provide shell access.
 ```
-### Conclusion:
-
-   After this laboratory work I have got familiar with VCS systems and gained skills working with git. VCS systems are very useful when working in a team or in a big company. Many developers can work on the same project from different places and having possibility to have the latest version of project. Also, using CLI editors, like vim, I found out that this kind of editors are not so easy to use, but very powerfull when you learn a little bit about them. I think that I will continue to use vim from now on because I liked it a lot.
-
