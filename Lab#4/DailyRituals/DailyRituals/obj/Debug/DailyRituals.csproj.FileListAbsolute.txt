@@ -1,0 +1,79 @@
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\bin\Debug\App.xbf
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\bin\Debug\AddRitual.xbf
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\bin\Debug\MainPage.xbf
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\bin\Debug\DailyRituals.xr.xml
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\bin\Debug\DailyRituals.exe
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\bin\Debug\DailyRituals.pdb
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\bin\Debug\resources.pri
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\bin\Debug\AppxManifest.xml
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\bin\Debug\DailyRituals.build.appxrecipe
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\App.g.i.cs
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\App.g.cs
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\AddRitual.g.i.cs
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\AddRitual.g.cs
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\MainPage.g.i.cs
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\MainPage.g.cs
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\XamlTypeInfo.g.cs
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\App.xaml
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\App.xbf
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\XamlSaveStateFile.xml
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\AddRitual.xaml
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\MainPage.xaml
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\AddRitual.xbf
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\MainPage.xbf
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\DailyRituals.exe
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\DailyRituals.pdb
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\priconfig.xml
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\priconfig.xml.intermediate
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\layout.resfiles
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\layout.resfiles.intermediate
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\resources.resfiles
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\resources.resfiles.intermediate
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\pri.resfiles
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\pri.resfiles.intermediate
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\qualifiers.txt
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\qualifiers.txt.intermediate
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\ProjectArchitectures.txt
+C:\Users\Tudor\Desktop\Lesson26_Code\DailyRituals\DailyRituals\bin\Debug\App.xbf
+C:\Users\Tudor\Desktop\Lesson26_Code\DailyRituals\DailyRituals\bin\Debug\AddRitual.xbf
+C:\Users\Tudor\Desktop\Lesson26_Code\DailyRituals\DailyRituals\bin\Debug\MainPage.xbf
+C:\Users\Tudor\Desktop\Lesson26_Code\DailyRituals\DailyRituals\bin\Debug\DailyRituals.xr.xml
+C:\Users\Tudor\Desktop\Lesson26_Code\DailyRituals\DailyRituals\bin\Debug\DailyRituals.exe
+C:\Users\Tudor\Desktop\Lesson26_Code\DailyRituals\DailyRituals\bin\Debug\DailyRituals.pdb
+C:\Users\Tudor\Desktop\Lesson26_Code\DailyRituals\DailyRituals\bin\Debug\resources.pri
+C:\Users\Tudor\Desktop\Lesson26_Code\DailyRituals\DailyRituals\bin\Debug\AppxManifest.xml
+C:\Users\Tudor\Desktop\Lesson26_Code\DailyRituals\DailyRituals\bin\Debug\DailyRituals.build.appxrecipe
+C:\Users\Tudor\Desktop\Lesson26_Code\DailyRituals\DailyRituals\obj\Debug\App.g.i.cs
+C:\Users\Tudor\Desktop\Lesson26_Code\DailyRituals\DailyRituals\obj\Debug\App.g.cs
+C:\Users\Tudor\Desktop\Lesson26_Code\DailyRituals\DailyRituals\obj\Debug\AddRitual.g.i.cs
+C:\Users\Tudor\Desktop\Lesson26_Code\DailyRituals\DailyRituals\obj\Debug\AddRitual.g.cs
+C:\Users\Tudor\Desktop\Lesson26_Code\DailyRituals\DailyRituals\obj\Debug\MainPage.g.i.cs
+C:\Users\Tudor\Desktop\Lesson26_Code\DailyRituals\DailyRituals\obj\Debug\MainPage.g.cs
+C:\Users\Tudor\Desktop\Lesson26_Code\DailyRituals\DailyRituals\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Tudor\Desktop\Lesson26_Code\DailyRituals\DailyRituals\obj\Debug\App.xaml
+C:\Users\Tudor\Desktop\Lesson26_Code\DailyRituals\DailyRituals\obj\Debug\AddRitual.xaml
+C:\Users\Tudor\Desktop\Lesson26_Code\DailyRituals\DailyRituals\obj\Debug\MainPage.xaml
+C:\Users\Tudor\Desktop\Lesson26_Code\DailyRituals\DailyRituals\obj\Debug\App.xbf
+C:\Users\Tudor\Desktop\Lesson26_Code\DailyRituals\DailyRituals\obj\Debug\AddRitual.xbf
+C:\Users\Tudor\Desktop\Lesson26_Code\DailyRituals\DailyRituals\obj\Debug\MainPage.xbf
+C:\Users\Tudor\Desktop\Lesson26_Code\DailyRituals\DailyRituals\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Tudor\Desktop\Lesson26_Code\DailyRituals\DailyRituals\obj\Debug\DailyRituals.exe
+C:\Users\Tudor\Desktop\Lesson26_Code\DailyRituals\DailyRituals\obj\Debug\DailyRituals.pdb
+C:\Users\Tudor\Desktop\Lesson26_Code\DailyRituals\DailyRituals\obj\Debug\priconfig.xml
+C:\Users\Tudor\Desktop\Lesson26_Code\DailyRituals\DailyRituals\obj\Debug\priconfig.xml.intermediate
+C:\Users\Tudor\Desktop\Lesson26_Code\DailyRituals\DailyRituals\obj\Debug\layout.resfiles
+C:\Users\Tudor\Desktop\Lesson26_Code\DailyRituals\DailyRituals\obj\Debug\layout.resfiles.intermediate
+C:\Users\Tudor\Desktop\Lesson26_Code\DailyRituals\DailyRituals\obj\Debug\resources.resfiles
+C:\Users\Tudor\Desktop\Lesson26_Code\DailyRituals\DailyRituals\obj\Debug\resources.resfiles.intermediate
+C:\Users\Tudor\Desktop\Lesson26_Code\DailyRituals\DailyRituals\obj\Debug\pri.resfiles
+C:\Users\Tudor\Desktop\Lesson26_Code\DailyRituals\DailyRituals\obj\Debug\pri.resfiles.intermediate
+C:\Users\Tudor\Desktop\Lesson26_Code\DailyRituals\DailyRituals\obj\Debug\qualifiers.txt
+C:\Users\Tudor\Desktop\Lesson26_Code\DailyRituals\DailyRituals\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Tudor\Desktop\Lesson26_Code\DailyRituals\DailyRituals\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Tudor\Desktop\Lesson26_Code\DailyRituals\DailyRituals\obj\Debug\ProjectArchitectures.txt
+C:\Users\Tudor\Desktop\Lesson26_Code\DailyRituals\DailyRituals\bin\Debug\About.xbf
+C:\Users\Tudor\Desktop\Lesson26_Code\DailyRituals\DailyRituals\obj\Debug\About.g.i.cs
+C:\Users\Tudor\Desktop\Lesson26_Code\DailyRituals\DailyRituals\obj\Debug\About.g.cs
+C:\Users\Tudor\Desktop\Lesson26_Code\DailyRituals\DailyRituals\obj\Debug\About.xaml
+C:\Users\Tudor\Desktop\Lesson26_Code\DailyRituals\DailyRituals\obj\Debug\About.xbf
