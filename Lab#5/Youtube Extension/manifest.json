@@ -1,0 +1,15 @@
+{
+  "name" : "YouPlayer",
+  "version" : "1.0",
+  "description" : "Youtube player",
+  "content_security_policy": "script-src 'self' https://apis.google.com; object-src 'self'",
+  "browser_action": {
+     "default_icon": "logo.png",
+     "default_popup": "popup.html"
+  },
+  "background": {
+    "page": "background.html"
+  },
+  "permissions": ["http://www.youtube.com/", "https://www.youtube.com/", "background", "https://apis.google.com/*"],
+  "manifest_version": 2
+}
